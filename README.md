@@ -48,7 +48,7 @@ Groww is an investing platform where users can find the best mutual funds to inv
     <li>Run 'npm install'</li>
     <li> Run Redis server</li>
     <li>Run 'npm run server' to Run Project</li>
-    <li>Open your Browser and go to 'localhost:6789/home'</li>
+    <li>Open your Browser and go to 'localhost:6789/index'</li>
     <li>Thats all !</li>
   </ul>
   
