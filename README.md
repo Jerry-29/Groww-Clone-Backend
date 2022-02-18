@@ -70,22 +70,22 @@ Groww is an investing platform where users can find the best mutual funds to inv
   <li><a href="https://github.com/Jerry-29">Govind Singh</a>
   </li>
    <li>
-     <a href="">
+     <a href="https://github.com/sayanwastaken">
      Sayan Das
        <a/>
   </li>
    <li>
-     <a href="">
+     <a href="https://github.com/29ab">
      Abhishek Chauhan
      </a>
   </li>
    <li>
-     <a href="">
+     <a href="https://github.com/mayurjadhav09">
      Majur Jadhav
      </a>
   </li>
    <li>
-     <a href="">
+     <a href="https://github.com/MohitGupta10">
      Mohit Gupta
      </a>
   </li>
