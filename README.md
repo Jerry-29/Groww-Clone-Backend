@@ -1,12 +1,12 @@
-# Airbnb-Clone
-Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities
+# Groww-Clone
+Groww is an investing platform where users can find the best mutual funds to invest in and can invest their money without any hassles. This was a Backend collaborative project implemented using Ejs,Node js,Exress js,gauth,Redis js,Chart js,CSS,Tilt Js and Mongo Db.
 # Preview
-![User Authentication](../public/Readme_data/projectprev.gif)
+![User Authentication](./public/gif/projectgif.gif)
 
 # Features
 <p>User Authentication </p>
 
-![User Authentication](./public/Readme_data/Screenshot (363).png)
+![User Authentication](./public/Images/shot.png)
 
 <p>Google Authentication</p>
 
@@ -14,27 +14,27 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
 
 <p>Home</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Images/shot2.png)
 
 <p>Hotel Lists</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Images/shot3.png)
 
 <p>Search by Location & FIlter</p>
 
-![User Authentication](./public/Readme_data/Screenshot(361).png)
+![User Authentication](./public/Images/shot4.png)
 
 <p>Products Details</p>
 
-![User Authentication](./public/Readme_data/Screenshot(362).png)
+![User Authentication](./public/Images/shot5.png)
 
 <p>Cart</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Images/shot6.png)
 
 <p>Payment Successfull</p>
 
-![User Authentication](./public/Readme_data/Screenshot(363).png)
+![User Authentication](./public/Images/shot7.png)
 
 # Getting Started
 
@@ -46,19 +46,23 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
     <li>Clone my repository https://github.com/Jerry-29/Airbnb-Clone</li>
     <li>Open that code in your Code Editor</li>
     <li>Run 'npm install'</li>
-    <li>Run 'npm start'</li>
-    <li>React will open project at http://localhost:3001/
+    <li>Run 'redis serever'</li> 
+    <li>Run 'npm run'</li>
+    <li>Now run project at http://localhost:/6789/index in your browser</li>
     <li>Thats all !</li>
   </ul>
   
   # TechStacks
   <ul>
-  <li>React</li>
-  <li>Redux</li>
+  <li>Express</li>
+  <li>Node</li>
   <li>Javascripts</li> 
-  <li>HTML</li>
+  <li>Ejs</li>
   <li>CSS</li>
-  <li>Firebase</li> 
+  <li>Chart js</li> 
+  <li>Vanila-tilt js js</li> 
+  <li>gauth2.0 js</li> 
+  <li>Redis</li> 
   </ul>
   
   # Developers
@@ -66,23 +70,25 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
   <li><a href="https://github.com/Jerry-29">Govind Singh</a>
   </li>
    <li>
-     <a href="https://github.com/Rohit8483">
-     Rohit
+     <a href="https://github.com/sayanwastaken">
+     Sayan Das
        <a/>
   </li>
    <li>
-     <a href="https://github.com/monika-4oop">
-     Monika
+     <a href="https://github.com/29ab">
+     Abhishek Chauhan
      </a>
   </li>
    <li>
-     <a href="https://github.com/gopala1995">
-     Gopala
+     <a href="https://github.com/mayurjadhav09">
+     Majur Jadhav
      </a>
   </li>
    <li>
-     <a href="https://github.com/shashifw11">
-     Shashi Kumar
+     <a href="https://github.com/MohitGupta10">
+     Mohit Gupta
      </a>
   </li>
   </ul>
+
+
