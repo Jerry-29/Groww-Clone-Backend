@@ -43,7 +43,7 @@ Groww is an investing platform where users can find the best mutual funds to inv
 <h4>To run, follow these steps:</h4>
 
   <ul>
-    <li>Clone my repository https://github.com/Jerry-29/Airbnb-Clone</li>
+    <li>Clone my repository https://github.com/Jerry-29/Groww-Clone-Backend</li>
     <li>Open that code in your Code Editor</li>
     <li>Run 'npm install'</li>
     <li>Run 'redis serever'</li> 
