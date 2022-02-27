@@ -1,12 +1,12 @@
 # Groww-Clone-Backend
-Groww is an investing platform where users can find the best mutual funds to invest in and can invest their money without any hassles. This was a Backend collaborative project implemented using Ejs,Node js,Exress js,gauth,Redis js,Chart js,CSS,Tilt Js and Mongo Db.
+Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities
 # Preview
-![User Authentication](./public/gif/projectgif.gif)
+![User Authentication](./public/Readme_data/projectprev.gif)
 
 # Features
-<p>User Authentication Login through OTP </p>
+<p>User Authentication </p>
 
-![User Authentication](./public/Images/shot.png)
+![User Authentication](./public/Readme_data/Screenshot (363).png)
 
 <p>Google Authentication</p>
 
@@ -14,27 +14,27 @@ Groww is an investing platform where users can find the best mutual funds to inv
 
 <p>Home</p>
 
-![User Authentication](./public/Images/shot2.png)
+![User Authentication](./public/Readme_data/Screenshot(363).png)
 
-<p>Dark Mode</p>
+<p>Hotel Lists</p>
 
-![User Authentication](./public/Images/shot3.png)
+![User Authentication](./public/Readme_data/Screenshot(363).png)
 
-<p>Products</p>
+<p>Search by Location & FIlter</p>
 
-![User Authentication](./public/Images/shot4.png)
+![User Authentication](./public/Readme_data/Screenshot(361).png)
 
 <p>Products Details</p>
 
-![User Authentication](./public/Images/shot5.png)
+![User Authentication](./public/Readme_data/Screenshot(362).png)
 
 <p>Cart</p>
 
-![User Authentication](./public/Images/shot6.png)
+![User Authentication](./public/Readme_data/Screenshot(363).png)
 
 <p>Payment Successfull</p>
 
-![User Authentication](./public/Images/shot7.png)
+![User Authentication](./public/Readme_data/Screenshot(363).png)
 
 # Getting Started
 
@@ -43,26 +43,22 @@ Groww is an investing platform where users can find the best mutual funds to inv
 <h4>To run, follow these steps:</h4>
 
   <ul>
-    <li>Clone my repository https://github.com/Jerry-29/Groww-Clone-Backend</li>
+    <li>Clone my repository https://github.com/Jerry-29/Airbnb-Clone</li>
     <li>Open that code in your Code Editor</li>
     <li>Run 'npm install'</li>
-    <li> Run Redis server</li>
-    <li>Run 'npm run server' to Run Project</li>
-    <li>Open your Browser and go to 'localhost:6789/index'</li>
+    <li>Run 'npm start'</li>
+    <li>React will open project at http://localhost:3001/
     <li>Thats all !</li>
   </ul>
   
   # TechStacks
   <ul>
-  <li>Ejs</li>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Javascripts</li> 
+  <li>HTML</li>
   <li>CSS</li>
-  <li>Advance Javascripts</li> 
-  <li>Node js</li>
-  <li>Express js</li>
-  <li>Redis</li>
-  <li>gauth2.0</li>
-  <li>Chart js</li>
-  <li>Vanilla-tilt.js</li>
+  <li>Firebase</li> 
   </ul>
   
   # Developers
@@ -71,22 +67,22 @@ Groww is an investing platform where users can find the best mutual funds to inv
   </li>
    <li>
      <a href="https://github.com/sayanwastaken">
-     Sayan Das
+     Rohit
        <a/>
   </li>
    <li>
      <a href="https://github.com/29ab">
-     Abhishek Chauhan
+     Monika
      </a>
   </li>
    <li>
      <a href="https://github.com/mayurjadhav09">
-     Majur Jadhav
+     Gopala
      </a>
   </li>
    <li>
      <a href="https://github.com/MohitGupta10">
-     Mohit Gupta
+     Shashi Kumar
      </a>
   </li>
   </ul>
