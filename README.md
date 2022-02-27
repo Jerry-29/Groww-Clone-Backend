@@ -66,22 +66,22 @@ Airbnb, Inc. is an American company that operates an online marketplace for lodg
   <li><a href="https://github.com/Jerry-29">Govind Singh</a>
   </li>
    <li>
-     <a href="https://github.com/sayanwastaken">
+     <a href="https://github.com/Rohit8483">
      Rohit
        <a/>
   </li>
    <li>
-     <a href="https://github.com/29ab">
+     <a href="https://github.com/monika-4oop">
      Monika
      </a>
   </li>
    <li>
-     <a href="https://github.com/mayurjadhav09">
+     <a href="https://github.com/gopala1995">
      Gopala
      </a>
   </li>
    <li>
-     <a href="https://github.com/MohitGupta10">
+     <a href="https://github.com/shashifw11">
      Shashi Kumar
      </a>
   </li>
