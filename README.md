@@ -1,7 +1,7 @@
-# Groww-Clone-Backend
+# Airbnb-Clone
 Airbnb, Inc. is an American company that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities
 # Preview
-![User Authentication](./public/Readme_data/projectprev.gif)
+![User Authentication](../public/Readme_data/projectprev.gif)
 
 # Features
 <p>User Authentication </p>
