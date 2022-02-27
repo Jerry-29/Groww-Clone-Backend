@@ -16,11 +16,11 @@ Groww is an investing platform where users can find the best mutual funds to inv
 
 ![User Authentication](./public/Images/shot2.png)
 
-<p>Hotel Lists</p>
+<p>Dark Mode</p>
 
 ![User Authentication](./public/Images/shot3.png)
 
-<p>Search by Location & FIlter</p>
+<p>Products </p>
 
 ![User Authentication](./public/Images/shot4.png)
 
@@ -61,7 +61,7 @@ Groww is an investing platform where users can find the best mutual funds to inv
   <li>CSS</li>
   <li>Chart js</li> 
   <li>Vanila-tilt js js</li> 
-  <li>gauth2.0 js</li> 
+  <li>gauth2.0</li> 
   <li>Redis</li> 
   </ul>
   
