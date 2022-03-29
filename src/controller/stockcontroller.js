@@ -4,8 +4,6 @@ const prodTemp = require("../models/pro.redis");
 
 const router = express.Router();
 
-const redis = require("../config/redis");
-
 router.get("/", async (req, res) => {
   try {
     const stock = await stockModel.find().lean().exec();
